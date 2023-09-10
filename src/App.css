@@ -80,6 +80,7 @@
 
 .category-recipe-section {
   padding: 6.6vmax 0;
+  overflow-y: hidden;
 }
 
 .category-recipe-section > h3 {
